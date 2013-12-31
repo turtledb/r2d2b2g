@@ -19,7 +19,8 @@ this.GlobalSimulatorScreen = {
   width: 320,
   height: 480,
   // Orientation data for the current app,
-  // what it supports
+  // what it support
+  
   mozOrientationLocked: false,
   mozOrientation: "portrait-primary",
   // The faked screen orientation
